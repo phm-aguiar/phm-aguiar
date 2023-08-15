@@ -19,24 +19,12 @@
 - Intermediate skills in Shell scripting
 - Operating Systems: Debian/Pop_OS user
 
-## Languages
+### 📈 GitHub Activity Graph:
 
-![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 
-## GitHub Stats
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=phm-aguiar)](https://github.com/phm-aguiar)
-
-## Top Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=phm-aguiar&theme=radical&layout=compact)
-
-## Skills
-
-- Languages: C, Python
-- Git: Basic
-- Shell Scripting: Intermediate
+| My Stats                                                                                                                                           | Most Languages                                                                                                                                   |
+|---------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------|
+| ![Your github stats](https://github-readme-stats.vercel.app/api?username=phm-aguiar&show_icons=true&theme=radical&include_all_commits=true) | ![Your top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=phm-aguiar&theme=radical&layout=compact) |
 
 ## Operating Systems
 
@@ -71,9 +59,15 @@ Descrição do Projeto: uma bateria de atividades para fixação do basico de c.
     <a href="https://github.com/phm-aguiar/42_libft"><img src="https://img.shields.io/github/contributors/phm-aguiar/42_libft?color=blue"></a>
     <a href="https://github.com/phm-aguiar/42_libft/stargazers"><img src="https://img.shields.io/github/stars/phm-aguiar/42_libft?logo=github"></a>
     <a href="https://github.com/phm-aguiar/42_libft/network/members"><img src="https://img.shields.io/github/forks/phm-aguiar/42_libft?color=blue&logo=github"></a>
+    <a href="https://github.com/phm-aguiar/42_libft/issues"><img src="https://img.shields.io/github/issues/phm-aguiar/42_libft?color=red"></a>
+    <a href="https://github.com/phm-aguiar/42_libft/issues?q=is%3Aissue+is%3Aclosed"><img src="https://img.shields.io/github/issues-closed/phm-aguiar/42_libft?color=green"></a>
     <img src="https://visitor-badge.laobi.icu/badge?page_id=phm-aguiar.42_libft" alt="visitors"/>
 </div>
 
 Descrição do Projeto: Uma biblioteca criada do 0 para ser usada nos proximos projetos.
 
-
+<div align="center">
+    <a href="https://github-readme-streak-stats.herokuapp.com?user=phm-aguiar&hide_border=true">
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=phm-aguiar&hide_border=true" alt="GitHub Streak">
+    </a>
+</div>
