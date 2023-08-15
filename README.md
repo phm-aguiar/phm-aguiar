@@ -12,5 +12,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!--   my-ticker -->    
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Pedro+Modesto;+Welcome+to+My+Profile!;Over+0+years+of+programming+experience;Always+learning+new+things+;C+enthusiast+;42+Cadet)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hello+everyone!+👋;Thank+you+for+visiting+my+profile;I'm+Pedro+Modesto;I'm+a+student+at+42+SP;Currently+learning+all+about+C;Have+fun+with+my+GitHub+😄)](https://git.io/typing-svg)
+
