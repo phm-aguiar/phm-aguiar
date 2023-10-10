@@ -66,7 +66,7 @@ You can reach out to me through:
 
 - [LinkedIn](https://www.linkedin.com/in/pedro-modesto/)
 - [Email](mailto:pedro.modesto15@gmail.com)
-- [WhatsApp](https://api.whatsapp.com/send?phone=+55119400289)
+- [WhatsApp](https://api.whatsapp.com/send?phone=+5511940028922)
 
 ---
 
