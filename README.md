@@ -66,7 +66,7 @@
 - 🎯 Focusing on learning C
 - 💻 Familiar with basic Git concepts
 - 🚀 Intermediate skills in Shell scripting
-- 🐧 Operating Systems: Debian/Pop_OS user
+- 🐧 Operating Systems: Debian/Parrot_Os user
 
 ###
 
