@@ -25,6 +25,10 @@
   </a>
   <img width="12" />
   <a href="https://www.linkedin.com/in/pedro-modesto/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="30" alt="c logo"  />
+  </a>
+  <img width="12" />
+  <a href="https://www.linkedin.com/in/pedro-modesto/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
   </a>
   <img width="12" />
@@ -34,6 +38,10 @@
   <img width="12" />
   <a href="https://www.linkedin.com/in/pedro-modesto/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" height="30" alt="cmake logo"  />
+  </a>
+  <img width="12" />
+  <a href="https://www.linkedin.com/in/pedro-modesto/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" height="30" alt="c logo"  />
   </a>
 </div>
 
@@ -62,9 +70,9 @@
 
 ## Personal Introduction
 
-- 👶 Beginner programmer with 0 years of experience
-- 🎯 Focusing on learning C
-- 💻 Familiar with basic Git concepts
+- 👶 Beginner programmer with 1 years of experience
+- 🎯 Focusing on learning C/C++ and Go
+- 💻 Familiar with Intermediate Git concepts
 - 🚀 Intermediate skills in Shell scripting
 - 🐧 Operating Systems: Debian/Parrot_Os user
 
